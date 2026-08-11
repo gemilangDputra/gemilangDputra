@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah siswa sekolah menengah pertama.<br>Saya tinggal di Indonesia.<br>Saya sedang mendalami AI/Matrix pada c++<br>Saya juga sedang mengembangkan project.
+I am a junior high school student.<br>I am based in Indonesia.<br>I am interested in coding (C++, etc.).<br>I am currently delving into AI, matrices, and tensors.<br>I am currently working on a project.
 
 
 ## 🌐 Socials:
